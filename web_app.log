@@ -1,0 +1,8 @@
+{"level":"debug","ts":"2021-05-16T15:08:46.976+0800","caller":"web_app/main.go:32","msg":"logger init success"}
+{"level":"error","ts":"2021-05-16T15:08:47.020+0800","caller":"mysql/mysql.go:20","msg":"connect db failed","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"debug","ts":"2021-05-16T15:11:00.381+0800","caller":"web_app/main.go:32","msg":"logger init success"}
+{"level":"error","ts":"2021-05-16T15:11:00.394+0800","caller":"mysql/mysql.go:20","msg":"connect db failed","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"debug","ts":"2021-05-16T15:11:12.449+0800","caller":"web_app/main.go:32","msg":"logger init success"}
+{"level":"info","ts":"2021-05-16T15:11:36.390+0800","caller":"logger/logger.go:90","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"curl/7.64.1","errors":"","cost":0.000023836}
+{"level":"info","ts":"2021-05-16T15:16:08.115+0800","caller":"web_app/main.go:74","msg":"Shutdown Server ..."}
+{"level":"info","ts":"2021-05-16T15:16:08.617+0800","caller":"web_app/main.go:83","msg":"Server exiting"}
