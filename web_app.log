@@ -6,3 +6,21 @@
 {"level":"info","ts":"2021-05-16T15:11:36.390+0800","caller":"logger/logger.go:90","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"curl/7.64.1","errors":"","cost":0.000023836}
 {"level":"info","ts":"2021-05-16T15:16:08.115+0800","caller":"web_app/main.go:74","msg":"Shutdown Server ..."}
 {"level":"info","ts":"2021-05-16T15:16:08.617+0800","caller":"web_app/main.go:83","msg":"Server exiting"}
+{"level":"debug","ts":"2021-05-16T15:23:18.162+0800","caller":"web_app/main.go:32","msg":"logger init success"}
+{"level":"info","ts":"2021-05-16T15:25:50.614+0800","caller":"web_app/main.go:74","msg":"Shutdown Server ..."}
+{"level":"info","ts":"2021-05-16T15:25:51.116+0800","caller":"web_app/main.go:83","msg":"Server exiting"}
+{"level":"debug","ts":"2021-05-16T15:26:28.655+0800","caller":"web_app/main.go:32","msg":"logger init success"}
+{"level":"info","ts":"2021-05-16T15:26:33.807+0800","caller":"web_app/main.go:74","msg":"Shutdown Server ..."}
+{"level":"info","ts":"2021-05-16T15:26:34.312+0800","caller":"web_app/main.go:83","msg":"Server exiting"}
+{"level":"debug","ts":"2021-05-16T15:27:15.771+0800","caller":"web_app/main.go:32","msg":"logger init success"}
+{"level":"info","ts":"2021-05-16T15:27:17.983+0800","caller":"web_app/main.go:74","msg":"Shutdown Server ..."}
+{"level":"info","ts":"2021-05-16T15:27:18.488+0800","caller":"web_app/main.go:83","msg":"Server exiting"}
+{"level":"debug","ts":"2021-05-16T15:27:28.206+0800","caller":"web_app/main.go:32","msg":"logger init success"}
+{"level":"info","ts":"2021-05-16T15:27:33.553+0800","caller":"web_app/main.go:74","msg":"Shutdown Server ..."}
+{"level":"info","ts":"2021-05-16T15:27:34.058+0800","caller":"web_app/main.go:83","msg":"Server exiting"}
+{"level":"debug","ts":"2021-05-16T15:28:59.456+0800","caller":"web_app/main.go:32","msg":"logger init success"}
+{"level":"info","ts":"2021-05-16T15:33:44.329+0800","caller":"web_app/main.go:74","msg":"Shutdown Server ..."}
+{"level":"info","ts":"2021-05-16T15:33:44.834+0800","caller":"web_app/main.go:83","msg":"Server exiting"}
+{"level":"debug","ts":"2021-05-16T15:33:48.168+0800","caller":"web_app/main.go:32","msg":"logger init success"}
+{"level":"info","ts":"2021-05-16T15:33:50.054+0800","caller":"web_app/main.go:74","msg":"Shutdown Server ..."}
+{"level":"info","ts":"2021-05-16T15:33:50.554+0800","caller":"web_app/main.go:83","msg":"Server exiting"}
